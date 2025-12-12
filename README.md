@@ -62,7 +62,7 @@
   <a href="https://github.com/Zekencio/ZText" target="_blank">A minimalist text editor made pure in C (compiles on Linux)</a><br>
 </div>
 
-<h3 align="left">📱 Check my LinkedIn profile!</h3>
+<h3 align="center">📱 Check my LinkedIn profile!</h3>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ezequiel-rodríguez-reding-b5b845369/" target="_blank">
