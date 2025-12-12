@@ -56,10 +56,10 @@
 <h3 align="left">✅ Projects I have contributed to:</h3>
 
 <div>
-  <a href="https://github.com/Romma711/tp-utn-reservas" target="_blank">Basic Hotel Management System in C</a>
-  <a href="https://github.com/rodrigo-sys/tp-final" target="_blank">Basic Spa Management System in Java</a>
-  <a href="https://github.com/Zekencio/tp-utn-libreria" target="_blank">A Book Store Web Page using Spring Boot and Angular</a>
-  <a href="https://github.com/Zekencio/ZText" target="_blank">A minimalist text editor made pure in C (compiles on Linux)</a>
+  <a href="https://github.com/Romma711/tp-utn-reservas" target="_blank">Basic Hotel Management System in C</a><br>
+  <a href="https://github.com/rodrigo-sys/tp-final" target="_blank">Basic Spa Management System in Java</a><br>
+  <a href="https://github.com/Zekencio/tp-utn-libreria" target="_blank">A Book Store Web Page using Spring Boot and Angular</a><br>
+  <a href="https://github.com/Zekencio/ZText" target="_blank">A minimalist text editor made pure in C (compiles on Linux)</a><br>
 </div>
 
 <h3 align="left">📱 Check my LinkedIn profile!</h3>
